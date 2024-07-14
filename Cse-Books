@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "topic": "Algorithms",
+    "books": [
+      {
+        "title": "Introduction to Algorithms",
+        "authors": ["Thomas H. Cormen", "Charles E. Leiserson", "Ronald L. Rivest", "Clifford Stein"]
+      },
+      {
+        "title": "Algorithms",
+        "authors": ["Robert Sedgewick", "Kevin Wayne"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Data Structures",
+    "books": [
+      {
+        "title": "Data Structures and Algorithm Analysis in C",
+        "authors": ["Mark Allen Weiss"]
+      },
+      {
+        "title": "Data Structures and Algorithms Made Easy",
+        "authors": ["Narasimha Karumanchi"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Operating Systems",
+    "books": [
+      {
+        "title": "Operating System Concepts",
+        "authors": ["Abraham Silberschatz", "Peter Baer Galvin", "Greg Gagne"]
+      },
+      {
+        "title": "Modern Operating Systems",
+        "authors": ["Andrew S. Tanenbaum", "Herbert Bos"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Computer Networks",
+    "books": [
+      {
+        "title": "Computer Networking: A Top-Down Approach",
+        "authors": ["James F. Kurose", "Keith W. Ross"]
+      },
+      {
+        "title": "Data and Computer Communications",
+        "authors": ["William Stallings"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Databases",
+    "books": [
+      {
+        "title": "Database System Concepts",
+        "authors": ["Abraham Silberschatz", "Henry F. Korth", "S. Sudarshan"]
+      },
+      {
+        "title": "Fundamentals of Database Systems",
+        "authors": ["Ramez Elmasri", "Shamkant B. Navathe"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Artificial Intelligence",
+    "books": [
+      {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "authors": ["Stuart Russell", "Peter Norvig"]
+      },
+      {
+        "title": "Pattern Recognition and Machine Learning",
+        "authors": ["Christopher M. Bishop"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Machine Learning",
+    "books": [
+      {
+        "title": "Machine Learning",
+        "authors": ["Tom M. Mitchell"]
+      },
+      {
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "authors": ["Aurélien Géron"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Computer Architecture",
+    "books": [
+      {
+        "title": "Computer Architecture: A Quantitative Approach",
+        "authors": ["John L. Hennessy", "David A. Patterson"]
+      },
+      {
+        "title": "Computer Organization and Design",
+        "authors": ["David A. Patterson", "John L. Hennessy]
+      }
+    ]
+  }
